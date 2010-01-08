@@ -24,13 +24,13 @@ git://github.com/jschilli/phpFob.git
 
 licensekey.php has a test function - it illustrates the usage of the library
 
-$lic = make_license('product', 'User Name', 10);
-echo "$lic\n";
-if (verify_license('product', 'User Name', 10, $lic)) {
-	echo "License IS Valid\n";
-} else {
-	echo "License IS NOT valid\n";
-}
+		$lic = make_license('product', 'User Name', 10);
+		echo "$lic\n";
+		if (verify_license('product', 'User Name', 10, $lic)) {
+			echo "License IS Valid\n";
+		} else {
+			echo "License IS NOT valid\n";
+		}
 
 should result in something like this:
 
