@@ -1,6 +1,6 @@
 phpFob
 ========
-
+-----------
 
 1. DESCRIPTION
 ==============
@@ -48,9 +48,7 @@ Check this space for updates to phpFob and its inclusion in other systems.
 phpFob is Copyright (C) 2010 manicwave Productions
 <http://manicwave.com>. All rights reserved. 
 
-phpFob is distributed under Creative Commons Attribution 3.0 License
-<http://creativecommons.org/licenses/by/3.0/>. Attribution may take form of a
-mention in your application About box or other documentation.
+This code is released under the MIT Open Source License. Feel free to do whatever you want with it.
 
 4. CREDITS
 ==========
